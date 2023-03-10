@@ -1,4 +1,4 @@
-const requestURL = 'https://github.com/GitEnny/WEB/blob/master/directory/data.json';
+const requestURL = 'https://raw.githubusercontent.com/GitEnny/WEB/master/directory/data.json';
 const list = document.querySelector('#list');
 const table = document.querySelector('.table');
 const grid = document.querySelector('#grid');
@@ -7,11 +7,13 @@ const displayItems = document.querySelector('.displayItems');
 
 
 async function getData(requestURL) {
+    
     const response = await fetch(requestURL);
     if (response.ok) {
         const data = await response.json();
         // console.log(data);
         const businesses = data['businesses'];
+        console.log(businesses)
 
         businesses.forEach(business => {
             displayCards(business);

@@ -11,7 +11,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www.nordstrom.com/store-details/united-states/ut/salt-lake-city/nordstrom-city-creek-center",
-            "logo": "directory/images/nordstrom.jpg"
+            "logo": "./images/nordstrom.webp"
         },
         {
             "name": "Red Butte Garden", 
@@ -24,7 +24,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www.visitsaltlake.com/listing/red-butte-garden-utahs-botanical-garden/54428/",
-            "logo": "directory/images/gardenplace.webp"
+            "logo": "./images/gardenplace.webp"
         },
         {
             "name": "H&M",
@@ -37,7 +37,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www2.hm.com/en_gb/customer-service/shopping-at-hm/local-store.US0257.html",
-            "logo": "directory/images/gardenplace.webp"
+            "logo": "./images/gardenplace.webp"
         },
         {
             "name": "Millcreek gardens",
@@ -50,7 +50,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www.millcreekgardens.com/utah-native-plants/",
-            "logo": "directory/images/mothernature.jpg"
+            "logo": "./images/mothernature.jpg"
         },
         {
             "name": "Pizzeria Limone",
@@ -63,7 +63,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www.pizzerialimone.com/",
-            "logo": "directory/images/pizzeria.jpg"
+            "logo": "./images/pizzeria.jpg"
         },
         {
             "name": "Hive Market",
@@ -76,7 +76,7 @@
             },
             "phone": "123-456-7890",
             "website": "https://www.thehivemarketslc.com/",
-            "logo": "directory/images/hivemarket.jpg"
+            "logo": "./images/hivemarket.jpg"
         },
         {
             "name": "Bout time pub & grub",
@@ -89,7 +89,7 @@
             },
             "phone": "(206) 535-7562",
             "website": "hhttps://www.bouttimepub.com/location/salt-lake-city-utah/",
-            "logo": "directory/images/bouttime.jpg"
+            "logo": "./images/bouttime.jpg"
         },
         {
             "name": "Salt Lake City Public Library",
@@ -102,7 +102,7 @@
             },
             "phone": "(206) 386-4636",
             "website": "https://services.slcpl.org/",
-            "logo": "directory/images/slcpubliclibrary.jpg"
+            "logo": "./images/slcpubliclibrary.jpg"
         },
         {
             "name": "Lagoon",
@@ -115,7 +115,7 @@
             },
             "phone": "(206) 905-2100",
             "website": "http://www.lagoonpark.com/",
-            "logo": "directory/images/lagoon.jpg"
+            "logo": "./images/lagoon.jpg"
         },
         {
             "name": "LoveLand Aquarium",
@@ -128,7 +128,7 @@
             },
             "phone": "(206) 386-4300",
             "website": "https://thelivingplanet.com/",
-            "logo": "directory/images/acquarium.jpg"
+            "logo": "./images/acquarium.jpg"
         },
         {
             "name": " Spheres nightclub",
@@ -141,7 +141,7 @@
             },
             "phone": "(123-456-7890)",
             "website": "https://foursquare.com/v/sphere/5c60735bcabcff002c3c9223",
-            "logo": "directory/images/nightclub.jpg"
+            "logo": "./images/nightclub.jpg"
         },
         {
             "name": "Bodega and the Rest",
@@ -154,7 +154,7 @@
             },
             "phone": "(206) 443-3241",
             "website": "https://bodegaslc.com/",
-            "logo": "directory/images/bodega.jpg"
+            "logo": "./images/bodega.jpg"
         }
     ]
 }
