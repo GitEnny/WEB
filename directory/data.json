@@ -1,0 +1,160 @@
+{
+    "businesses": [
+        {
+            "name": "Nordstrom",
+            "type": "Clothing & Accessories",
+            "location": {
+                "address1": "456 Main Street",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www.nordstrom.com/store-details/united-states/ut/salt-lake-city/nordstrom-city-creek-center",
+            "logo": "directory/images/nordstrom.jpg"
+        },
+        {
+            "name": "Red Butte Garden", 
+            "type": "Entertainment",
+            "location": {
+                "address1": "123 Garden Place",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www.visitsaltlake.com/listing/red-butte-garden-utahs-botanical-garden/54428/",
+            "logo": "directory/images/gardenplace.webp"
+        },
+        {
+            "name": "H&M",
+            "type": "Clothing & Accessories",
+            "location": {
+                "address1": "55 Second Street",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84007"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www2.hm.com/en_gb/customer-service/shopping-at-hm/local-store.US0257.html",
+            "logo": "directory/images/gardenplace.webp"
+        },
+        {
+            "name": "Millcreek gardens",
+            "type": "Shopping",
+            "location": {
+                "address1": "487 West Street",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www.millcreekgardens.com/utah-native-plants/",
+            "logo": "directory/images/mothernature.jpg"
+        },
+        {
+            "name": "Pizzeria Limone",
+            "type": "Food & Drink",
+            "location": {
+                "address1": "4 Market Street",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www.pizzerialimone.com/",
+            "logo": "directory/images/pizzeria.jpg"
+        },
+        {
+            "name": "Hive Market",
+            "type": "Entertainment",
+            "location": {
+                "address1": "77 Sea Street",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "123-456-7890",
+            "website": "https://www.thehivemarketslc.com/",
+            "logo": "directory/images/hivemarket.jpg"
+        },
+        {
+            "name": "Bout time pub & grub",
+            "type": "Food & Drink",
+            "location": {
+                "address1": "1500 place",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(206) 535-7562",
+            "website": "hhttps://www.bouttimepub.com/location/salt-lake-city-utah/",
+            "logo": "directory/images/bouttime.jpg"
+        },
+        {
+            "name": "Salt Lake City Public Library",
+            "type": "Public Services",
+            "location": {
+                "address1": "1000 Fourth Avenue",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(206) 386-4636",
+            "website": "https://services.slcpl.org/",
+            "logo": "directory/images/slcpubliclibrary.jpg"
+        },
+        {
+            "name": "Lagoon",
+            "type": "Entertainment",
+            "location": {
+                "address1": "Lagoon Way",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(206) 905-2100",
+            "website": "http://www.lagoonpark.com/",
+            "logo": "directory/images/lagoon.jpg"
+        },
+        {
+            "name": "LoveLand Aquarium",
+            "type": "Entertainment",
+            "location": {
+                "address1": "1483 Way",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(206) 386-4300",
+            "website": "https://thelivingplanet.com/",
+            "logo": "directory/images/acquarium.jpg"
+        },
+        {
+            "name": " Spheres nightclub",
+            "type": "Entertainment",
+            "location": {
+                "address1": " 7th Avenue",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(123-456-7890)",
+            "website": "https://foursquare.com/v/sphere/5c60735bcabcff002c3c9223",
+            "logo": "directory/images/nightclub.jpg"
+        },
+        {
+            "name": "Bodega and the Rest",
+            "type": "Food & Drink",
+            "location": {
+                "address1": "1989  Alley",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zip_code": "84407"
+            },
+            "phone": "(206) 443-3241",
+            "website": "https://bodegaslc.com/",
+            "logo": "directory/images/bodega.jpg"
+        }
+    ]
+}
