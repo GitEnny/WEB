@@ -36,17 +36,18 @@ if (day == 1 || day == 2) {
     banner.style.display = 'none';
 }
 
-const images = document.querySelectorAll('img');
-const options = { threshold: 0.5, rootMargin: '0px 0px -100px 0px' };
+const images = document.querySelectorAll('[data-src]');
+const options = { threshold: 0.5,
+     rootMargin: '0px 0px -100px 0px' };
 
-const preloadImage = (img) => {
+function preloadImage(img) {
   const src = img.getAttribute('data-src');
   if (!src) {
     return;
   }
   img.src = src;
 }
-
+console.log('kkkk')
 const io = new IntersectionObserver((entries, io) => {
     entries.forEach(entry => {
         if (!entry.isIntersecting) {
