@@ -61,3 +61,4 @@ const io = new IntersectionObserver((entries, io) => {
 images.forEach(image => {
     io.observe(image);
 });
+

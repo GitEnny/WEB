@@ -271,6 +271,7 @@ footer a {
 }
 
 .discover {
+    
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -281,6 +282,7 @@ footer a {
 }
 
 .discover div {
+    margin-top: 1%;
     padding: 10px;
 }
 
@@ -487,4 +489,9 @@ tr td {
     justify-content: center;
     align-items: center;
     margin: auto;
+}
+.ff{
+    text-align: center;
+    color: aliceblue;
+    
 }
